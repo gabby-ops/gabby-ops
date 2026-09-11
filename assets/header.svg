@@ -1,0 +1,50 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg"
+      x1="0%" y1="0%"
+      x2="100%" y2="100%">
+
+      <stop offset="0%" stop-color="#160021"/>
+      <stop offset="35%" stop-color="#5A0A78"/>
+      <stop offset="70%" stop-color="#A51B8B"/>
+      <stop offset="100%" stop-color="#FF3FA4"/>
+
+    </linearGradient>
+  </defs>
+
+  <rect
+    width="1200"
+    height="300"
+    rx="25"
+    fill="url(#bg)"
+  />
+
+  <text
+    x="600"
+    y="125"
+    text-anchor="middle"
+    font-family="Quicksand, sans-serif"
+    font-size="48"
+    font-weight="600"
+    fill="#FFFFFF">
+
+    GABRIELLY MOITINHO
+
+  </text>
+
+  <text
+    x="600"
+    y="185"
+    text-anchor="middle"
+    font-family="Quicksand, sans-serif"
+    font-size="24"
+    font-weight="600"
+    fill="#FFD6EA">
+
+    Full-Stack Developer in Progress
+
+  </text>
+
+</svg>
