@@ -235,9 +235,6 @@ width="90%"
 </picture>
 
 </div>
-
----
-
 <div align="center">
 
 ✦ **Learning • Creating • Evolving** ✦
