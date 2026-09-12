@@ -201,13 +201,16 @@ Aplicação desenvolvida para gerenciamento de despesas residenciais, com foco e
 
 <br><br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=gabby-ops&bg_color=00000000&color=E8A4FF&line=8E44AD&point=E8A4FF&area=true&hide_border=true"
-width="90%"
-alt="GitHub Activity Graph"
-/>
+</div>
 
 </div>
+
+| ![gabby Stats Profile](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabby-ops&theme=jolly) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabby-ops&theme=jolly) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabby-ops&theme=jolly&utcOffset=0)
+| :-: | :-: | :-: |
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabby-ops&theme=jolly) | [![GitHub Streak](https://streak-stats.demolab.com?user=gabby-ops&theme=jolly&hide_border=verdadeiro&short_numbers=falso)](https://git.io/streak-stats) |
+| :-: | :-: |
+
 
 
 ## pacman
