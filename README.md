@@ -12,7 +12,7 @@ alt="Gabrielly Moitinho"
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gabrielly-moitinho-057b893a6/">
+<a href="https://www.linkedin.com/in/gabby-moitinho-057b893a6/">
   <img src="https://img.shields.io/badge/LinkedIn-8E44AD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
@@ -23,6 +23,18 @@ alt="Gabrielly Moitinho"
 <br><br>
 
 ### 𝐃𝐄𝐕 𝐈𝐍 𝐄𝐕𝐎𝐋𝐔𝐓𝐈𝐎𝐍
+
+<br>
+
+```javascript
+const gaby = {
+  foco: "Full-Stack & Backend",
+  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  aprendendo: ["Java", "Python", "PostgreSQL", "POO"],
+  projeto: "EduLivre 🎓",
+  status: "DEV IN EVOLUTION ✦"
+};
+```
 
 </div>
 
@@ -90,19 +102,71 @@ alt="Ilustração da Gabrielly"
 
 <a href="https://github.com/gabby-ops/projeto_edulivre">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabby-ops&repo=projeto_edulivre&theme=transparent&hide_border=true&title_color=E8A4FF"
+    src="https://img.shields.io/badge/🎓%20EduLivre-8E44AD?style=for-the-badge"
     alt="EduLivre"
   />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/gabby-ops/controle-gastos-residenciais">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gabby-ops&repo=controle-gastos-residenciais&theme=transparent&hide_border=true&title_color=E8A4FF"
+    src="https://img.shields.io/badge/💰%20Controle%20de%20Gastos-E8A4FF?style=for-the-badge&logoColor=181717"
     alt="Controle de Gastos"
   />
 </a>
 
 </div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 EduLivre
+
+Plataforma educacional desenvolvida para facilitar o acesso, a organização e o acompanhamento de conteúdos.
+
+**Stack:**
+
+`React` `Vite` `Node.js` `Express` `Supabase`
+
+<br>
+
+<a href="https://github.com/gabby-ops/projeto_edulivre">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-8E44AD?style=for-the-badge&logo=github&logoColor=white"
+    alt="Ver projeto EduLivre"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Controle de Gastos
+
+Aplicação desenvolvida para gerenciamento de despesas residenciais, com foco em organização e controle financeiro.
+
+**Stack:**
+
+`C#` `.NET` `React` `TypeScript` `PostgreSQL`
+
+<br>
+
+<a href="https://github.com/gabby-ops/controle-gastos-residenciais">
+  <img
+    src="https://img.shields.io/badge/Ver%20projeto-E8A4FF?style=for-the-badge&logo=github&logoColor=181717"
+    alt="Ver projeto Controle de Gastos"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -110,48 +174,65 @@ alt="Ilustração da Gabrielly"
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=gabby-ops&show_icons=true&hide_border=true&theme=transparent&title_color=E8A4FF&icon_color=E8A4FF&text_color=CFCFCF"
-height="170"
-alt="GitHub Stats"
-/>
+<a href="https://github.com/gabby-ops?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Projetos-8E44AD?style=for-the-badge&logo=github&logoColor=white"
+    alt="Projetos no GitHub"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/gabby-ops?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/gabby-ops?style=for-the-badge&label=Seguidores&color=E8A4FF&labelColor=181717"
+    alt="Seguidores"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/gabby-ops?tab=stars">
+  <img
+    src="https://img.shields.io/github/stars/gabby-ops?style=for-the-badge&label=Stars&color=8E44AD&labelColor=181717"
+    alt="Stars"
+  />
+</a>
+
+<br><br>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabby-ops&layout=compact&hide_border=true&theme=transparent&title_color=E8A4FF&text_color=CFCFCF"
-height="170"
-alt="Top Languages"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gabby-ops&bg_color=00000000&color=E8A4FF&line=8E44AD&point=E8A4FF&area=true&hide_border=true"
+width="90%"
+alt="GitHub Activity Graph"
 />
 
 </div>
 
----
-
-## ✦ DEV IN EVOLUTION
-
-<div align="center">
-
-```javascript
-const gaby = {
-  foco: "Full-Stack & Backend",
-  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-  aprendendo: ["Java", "Python", "PostgreSQL", "POO"],
-  projeto: "EduLivre 🎓",
-  status: "DEV IN EVOLUTION ✦"
-};
-```
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/gabby-ops/gabby-ops/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/gabby-ops/gabby-ops/output/github-contribution-grid-snake.svg"
+/>
+
 <img
 src="https://raw.githubusercontent.com/gabby-ops/gabby-ops/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
+width="90%"
 />
+
+</picture>
 
 </div>
 
@@ -162,4 +243,3 @@ alt="GitHub Contribution Snake"
 ✦ **Learning • Creating • Evolving** ✦
 
 </div>
-
