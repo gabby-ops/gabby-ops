@@ -29,9 +29,9 @@ alt="Gabrielly Moitinho"
 ```javascript
 const gaby = {
   foco: "Full-Stack & Backend",
-  stack: "HTML", "CSS", "JavaScript", "React", "Node.js",
-  aprendendo: "Java", "Python", "PostgreSQL", "POO",
-  ultimo projeto: "EduLivre 🎓",
+  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  aprendendo: ["Java", "Python", "PostgreSQL", "POO"],
+  ultimoProjeto: "EduLivre 🎓",
   status: "DEV IN EVOLUTION ✦"
 };
 ```
